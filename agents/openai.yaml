@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analog Glitch Portrait"
+  short_description: "Identity-safe damaged-print portrait collage"
+  default_prompt: "Use $analog-glitch-portrait to restyle my portrait as a fine-grain analog glitch collage while preserving facial geometry and the exact original aspect ratio."
